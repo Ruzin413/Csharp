@@ -27,6 +27,8 @@ class Program
         /*6thquestion*/
         //loop l1=new loop();
         //l1.loop1();
-
+        /*7thquestion*/
+        //array a1 = new array();
+        //a1.array1();
     }
 }
