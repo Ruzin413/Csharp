@@ -30,5 +30,8 @@ class Program
         /*7thquestion*/
         //array a1 = new array();
         //a1.array1();
+        /*8thquestion*/
+        multidimentionalarray m1 = new multidimentionalarray();
+        m1.Marray();
     }
 }
