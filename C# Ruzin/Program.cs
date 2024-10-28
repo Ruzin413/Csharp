@@ -45,9 +45,10 @@ class Program
         //long factorial = f1.Factorial1(number);
         //Console.WriteLine($"Factorial of {number} is {factorial}");
         /*11thquestion*/
-        Console.WriteLine("Enter the number of Fibonacci terms to generate:");
-        int terms = int.Parse(Console.ReadLine());
-        Fibbonaci f1 = new Fibbonaci();
-        f1.FibonacciIterative(terms);
+        //Console.WriteLine("Enter the number of Fibonacci terms to generate:");
+        //int terms = int.Parse(Console.ReadLine());
+        //Fibbonaci f1 = new Fibbonaci();
+        //f1.FibonacciIterative(terms);
+
     }
 }
