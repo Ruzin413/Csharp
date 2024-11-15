@@ -49,6 +49,29 @@ class Program
         //int terms = int.Parse(Console.ReadLine());
         //Fibbonaci f1 = new Fibbonaci();
         //f1.FibonacciIterative(terms);
-
+        /*12thquestion*/
+        //Dog d1 = new Dog();
+        //d1.Makesound();
+        //Cat cat1 = new Cat();
+        //cat1.Makesound();
+        /*13thquestion*/
+        //Calculate c1 = new Calculate();
+        //int b = c1.add(12, 12);
+        //int a = c1.add(12, 15, 14);
+        //Console.WriteLine(b);
+        //Console.WriteLine(a);
+        /*14thquestion*/
+        //BaseClass b1 = new BaseClass();
+        //b1.Display();
+        //DerivedClass b2 = new DerivedClass();
+        //b2.Display();
+        //BaseClass b3 = new DerivedClass();
+        //b3.Display();
+        /*15thquestion*/
+        //ExceptionHandeling e1 = new ExceptionHandeling();
+        //e1.exception();
+        /*15thquestion*/
+        //List l1 = new List();
+        //l1.list();
     }
 }
