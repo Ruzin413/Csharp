@@ -73,5 +73,28 @@ class Program
         /*15thquestion*/
         //List l1 = new List();
         //l1.list();
+        /*16thquestion*//*
+        @switch s1 = new @switch();
+        s1.days();*/
+        /*17thquestion*/
+        //@ref r1 = new @ref();
+        //int num = 10;
+        //Console.WriteLine("Before:" + num);
+        //r1.UpdateValue(ref num);
+        //Console.WriteLine($"After: {num}");
+        /*test1*/
+        //refdatatyoe r2 = new refdatatyoe();
+        //r2.name();
+        /*test2*/
+        //autoimplementgetterandsetter a2 = new autoimplementgetterandsetter();
+        //Console.WriteLine("enter the race");
+        //String input1 = Console.ReadLine();
+        //Console.WriteLine("enter the conteinent");
+        //String output1 = Console.ReadLine();
+        //a2.Race = input1;
+        //a2.continent = output1;
+        //a2.call();
+        /*18thquestion*/
+
     }
 }
