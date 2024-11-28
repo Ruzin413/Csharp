@@ -73,9 +73,9 @@ class Program
         /*15thquestion*/
         //List l1 = new List();
         //l1.list();
-        /*16thquestion*//*
-        @switch s1 = new @switch();
-        s1.days();*/
+        /*16thquestion*/
+        //@switch s1 = new @switch();
+        //s1.days();
         /*17thquestion*/
         //@ref r1 = new @ref();
         //int num = 10;
@@ -95,6 +95,43 @@ class Program
         //a2.continent = output1;
         //a2.call();
         /*18thquestion*/
-
+        //Calculator calc = new Calculator(15, -25);
+        //calc = -calc;
+        //calc.print();
+        /*19thquestion*/
+        //GenericClass<string> gen = new GenericClass<string>("this is generic");
+        //GenericClass<int> gent = new GenericClass<int>(101);
+        //GenericClass<char> getch = new GenericClass<char>('A');
+        /*20thquestion*/
+        //try
+        //{
+        //    int a = 10;
+        //    int b = 0;
+        //    int x = a / b;
+        //}
+        //catch (Exception e)
+        //{
+        //    Console.WriteLine(e);
+        //}
+        //finally
+        //{
+        //    Console.WriteLine("Finally block is executed");
+        //}
+        //Console.WriteLine("Rest of the code");
+        /*21thquestion*/
+        //BabyDog dt = new BabyDog();
+        //dt.eat();
+        //dt.bark();
+        //dt.weep();
+        /*22thquestion*/
+        //Console.WriteLine("Season is: " + (int)Season.SUMMER);
+        /*23rdquestion*/
+        //Pigs myPig = new Pigs();
+        //myPig.animalSound();
+        //myPig.sleep();
+        /*24thquestion*/
+        //dele d2 = new dele();
+        //d2.calldel();
     }
 }
+
