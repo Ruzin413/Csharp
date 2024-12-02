@@ -1,7 +1,7 @@
 ﻿using C__Ruzin;
 using Csharp;
 using System;
-    
+
 class Program
 {
     public static void Main(string[] args)
@@ -132,6 +132,36 @@ class Program
         /*24thquestion*/
         //dele d2 = new dele();
         //d2.calldel();
+        /*25thquestion*/
+        //multicastdelegate.MultDel();
+        /*26thquestion*/
+        //multipledelegate.delcall();
+        /*27thquestion*/
+        //Publisher publisher = new Publisher();
+        //Subscriber subscriber = new Subscriber();
+        //publisher.myEvent += subscriber.OnMyEvent;
+        //publisher.RaiseEvent();
+        /*28thquestion*/
+        // Create a list of numbers
+        List<int> numbers = new List<int>() { 36, 71, 12, 15, 293 };
+
+        // Print the numbers in the list
+        Console.WriteLine("The list:");
+        foreach (var value in numbers)
+        {
+            Console.WriteLine("{0}", value);
+        }
+
+        // Find all numbers divisible by 3 and store them in a new list
+        List<int> divBy3 = numbers.FindAll(x => x % 3 == 0);
+
+        // Print the numbers divisible by 3
+        Console.WriteLine("Number divisible by 3:");
+        foreach (var value in divBy3)
+        {
+            Console.WriteLine("{0}", value);
+        }
     }
 }
+
 
