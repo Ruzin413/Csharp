@@ -143,25 +143,31 @@ class Program
         //publisher.RaiseEvent();
         /*28thquestion*/
         // Create a list of numbers
-        List<int> numbers = new List<int>() { 36, 71, 12, 15, 293 };
+        //List<int> numbers = new List<int>() { 36, 71, 12, 15, 293 };
 
-        // Print the numbers in the list
-        Console.WriteLine("The list:");
-        foreach (var value in numbers)
-        {
-            Console.WriteLine("{0}", value);
-        }
+        //// Print the numbers in the list
+        //Console.WriteLine("The list:");
+        //foreach (var value in numbers)
+        //{
+        //    Console.WriteLine("{0}", value);
+        //}
 
-        // Find all numbers divisible by 3 and store them in a new list
-        List<int> divBy3 = numbers.FindAll(x => x % 3 == 0);
+        //// Find all numbers divisible by 3 and store them in a new list
+        //List<int> divBy3 = numbers.FindAll(x => x % 3 == 0);
 
-        // Print the numbers divisible by 3
-        Console.WriteLine("Number divisible by 3:");
-        foreach (var value in divBy3)
-        {
-            Console.WriteLine("{0}", value);
-        }
-    }
+        //// Print the numbers divisible by 3
+        //Console.WriteLine("Number divisible by 3:");
+        //foreach (var value in divBy3)
+        //{
+        //    Console.WriteLine("{0}", value);
+        //}
+        /*test 3 enum*/
+        //enumtest3 t1 = new enumtest3();
+        //t1.enumtest();
+        /*testc 4 generics*/
+        //genericstest4 g1 = new genericstest4();
+        //g1.test();
+    }   
 }
 
 
