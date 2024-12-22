@@ -167,6 +167,26 @@ class Program
         /*testc 4 generics*/
         //genericstest4 g1 = new genericstest4();
         //g1.test();
+        /*test5opoverloading*/
+        //test5opoverloading food1 = new test5opoverloading("Pizza", "Burger");
+        //test5opoverloading food2 = new test5opoverloading("Sushi", "Taco");
+        //test5opoverloading food3 = food1 + food2;
+        //Console.WriteLine("Food 1:");
+        //food1.Display();
+
+        //Console.WriteLine("Food 2:");
+        //food2.Display();
+
+        //Console.WriteLine("Combined Food:");
+        //food3.Display();
+
+        //Console.ReadKey();
+        /*test6interface*/
+        rabbit r1 = new rabbit();
+        r1.prey();
+        hawk h1 = new hawk();
+        h1.prey();
+        h1.predy();
     }   
 }
 
