@@ -182,11 +182,11 @@ class Program
 
         //Console.ReadKey();
         /*test6interface*/
-        rabbit r1 = new rabbit();
-        r1.prey();
-        hawk h1 = new hawk();
-        h1.prey();
-        h1.predy();
+        //rabbit r1 = new rabbit();
+        //r1.prey();
+        //hawk h1 = new hawk();
+        //h1.prey();
+        //h1.predy();
     }   
 }
 
