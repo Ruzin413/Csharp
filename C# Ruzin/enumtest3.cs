@@ -22,7 +22,7 @@ namespace C__Ruzin
         public void enumtest()
         {
             int marks = (int)studentmarks.ramscience;
-            Console.WriteLine(student.hari + "this iss and roll is " + (int)student.hari +" "+ marks);
+            Console.WriteLine(student.hari + "this iss and roll is " + (Int32)student.hari +" "+ marks);
         }
     }
 }

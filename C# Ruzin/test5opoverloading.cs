@@ -4,9 +4,9 @@
 namespace C__Ruzin
 {   
     
-    internal class test5opoverloading
+    public class test5opoverloading
     {
-        String a, b;
+       public  String a, b;
 
         // Default Constructor
         public  test5opoverloading()
@@ -29,6 +29,9 @@ namespace C__Ruzin
             f3.a = f1.a + f2.a;
             f3.b = f1.b + f2.b;
             return f3;
+            // return new test5opoverloading(
+            //f1.a + " & " + f2.a,  // Combine 'a' properties
+            //f1.b + " & " + f2.b);  // Combine 'b' properties
         }
 
         // Display Method
